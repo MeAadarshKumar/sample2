@@ -1,1 +1,2 @@
 newly created file inside branch2
+added new contents
